@@ -1,0 +1,22 @@
+@charset "UTF-8";
+
+body {
+  margin: 0;
+  background-color: lightblue;
+  font-family: "メイリオ", "Meiryo", "ヒラギノ角ゴ Pro W3", "Hiragino Kaku Gothic Pro", 'ＭＳ Ｐゴシック', 'Osaka', sans-serif;
+}
+
+#container {
+  width: 918px;
+  margin: 0 auto;
+  background-color: white;
+}
+
+#header {
+  width: 898px;
+  margin: 0 auto;
+}
+
+#header h1 {
+  margin: 0;
+}
